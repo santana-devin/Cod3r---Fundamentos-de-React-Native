@@ -1,0 +1,6 @@
+$ npm i -g react-native-cli
+$ react-native init exercicio
+
+
+
+
