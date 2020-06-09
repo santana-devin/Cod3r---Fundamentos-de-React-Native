@@ -3,7 +3,7 @@ $ npm i -g react-native-cli
 $ react-native init exercicio
 
 Aula 21. Primeiro Componente
-
+Aula 22. Criando Estilo
 
 
 
