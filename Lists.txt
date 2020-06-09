@@ -1,5 +1,9 @@
+Aula 20. Recriando o Componente App ./exercicio1
 $ npm i -g react-native-cli
 $ react-native init exercicio
+
+Aula 21. Primeiro Componente
+
 
 
 
