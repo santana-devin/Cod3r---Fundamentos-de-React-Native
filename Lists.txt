@@ -5,6 +5,10 @@ $ react-native init exercicio
 Aula 21. Primeiro Componente
 Aula 22. Criando Estilo
 Aula 23. Renderização Condicional
+Aula 24. Sistema de Módulo: Import/Export
+Aula 25. Adicionando Navegação ao Projeto
+  "react navegation":"2.7.0"
+  npm i
 
 
 
