@@ -3,7 +3,7 @@ import {View, Text} from 'react-native';
 
 import Styles from './styles/standard';
 
-export default props => <Text style={[Styles.ex,Styles.exFont} >Arrow:{props.texto}</Text>
+export default (props) => <Text style={Styles.ex}>Arrow:{props.texto}</Text>;
 
 /*
 export default function(props){
