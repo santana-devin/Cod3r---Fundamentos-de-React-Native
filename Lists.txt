@@ -10,5 +10,8 @@ Aula 25. Adicionando Navegação ao Projeto
   "react navegation":"2.7.0"
   npm i
 
+Aula 26. Componente de Classe & Estado
+Aula 27. Cuidado com o 'this'
+
 
 
