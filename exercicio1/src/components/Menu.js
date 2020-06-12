@@ -5,8 +5,11 @@ import Simples from './Simples';
 import ParImpar from './ParImpar';
 import {Inverter, MegaSena} from './Multi';
 import Contador from './Contador';
+import PlatForm from './PlatForm';
+
 export default createDrawerNavigator(
   {
+    PlatForm: PlatForm,
     Contador: {
       screen: () => <Contador numeroInicial={100} />,
     },
