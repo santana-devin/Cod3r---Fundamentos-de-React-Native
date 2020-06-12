@@ -15,5 +15,7 @@ Aula 27. Cuidado com o 'this'
 
 Aula 28. Diferenciando iOS e Android
 
+Aula 29. Validar Propriedades
+
 
 

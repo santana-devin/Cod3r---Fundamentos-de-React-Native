@@ -6,9 +6,11 @@ import ParImpar from './ParImpar';
 import {Inverter, MegaSena} from './Multi';
 import Contador from './Contador';
 import PlatForm from './PlatForm';
+import ValidarProps from './ValidarProps';
 
 export default createDrawerNavigator(
   {
+    ValidarProps: <ValidarProps ano={34} />,
     PlatForm: PlatForm,
     Contador: {
       screen: () => <Contador numeroInicial={100} />,
