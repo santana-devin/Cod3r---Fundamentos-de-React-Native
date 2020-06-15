@@ -7,9 +7,11 @@ import {Inverter, MegaSena} from './Multi';
 import Contador from './Contador';
 import PlatForm from './PlatForm';
 import ValidarProps from './ValidarProps';
+import Vo from './ComunicacaoDireta';
 
 export default createDrawerNavigator(
   {
+    Vo: () => <Vo nome="João" sobrenome="Silva" />,
     ValidarProps: <ValidarProps ano={34} />,
     PlatForm: PlatForm,
     Contador: {
