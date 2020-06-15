@@ -18,5 +18,5 @@ Aula 28. Diferenciando iOS e Android
 Aula 29. Validar Propriedades
 Aula 30. Eventos & Componentes Controlados
 Aula 31. Comunicação Direta via Props
-
+Aula 32. Comunicação Indireta via Callback
 

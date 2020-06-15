@@ -8,9 +8,13 @@ import Contador from './Contador';
 import PlatForm from './PlatForm';
 import ValidarProps from './ValidarProps';
 import Vo from './ComunicacaoDireta';
+import TextoSincronizado from './ComunicacaoIndireta';
 
 export default createDrawerNavigator(
   {
+    TextoSincronizado: {
+      screen: TextoSincronizado,
+    },
     Vo: () => <Vo nome="João" sobrenome="Silva" />,
     ValidarProps: <ValidarProps ano={34} />,
     PlatForm: PlatForm,
