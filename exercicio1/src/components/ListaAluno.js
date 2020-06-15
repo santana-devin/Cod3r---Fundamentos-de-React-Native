@@ -16,6 +16,11 @@ const itemStyle = {
   backgroundColor: '#DDD',
   borderWight: 0.5,
   borderColor: '#222',
+
+  JustifyContent: 'space-around',
+  alingItens: 'center',
+  flexDitection: 'row',
+  justifyContent: 'space-between',
 };
 
 export const Alunos = (props) => (
@@ -34,7 +39,7 @@ export default (props) => {
     <ScrollView>
       <FlatList
         data={alunos}
-        renderItem={renderItem}
+        renderItem={renderItens}
         keyExtractor={(_, index) => index.toString()}
       />
     </ScrollView>

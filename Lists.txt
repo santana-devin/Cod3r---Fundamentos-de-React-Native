@@ -20,3 +20,5 @@ Aula 30. Eventos & Componentes Controlados
 Aula 31. Comunicação Direta via Props
 Aula 32. Comunicação Indireta via Callback
 Aluno 35. Lista de Alunos #01
+Aula 36. Lista de Alunos #02
+Aula 37. Exemplo Flexbox

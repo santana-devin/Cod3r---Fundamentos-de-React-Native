@@ -10,9 +10,13 @@ import ValidarProps from './ValidarProps';
 import Vo from './ComunicacaoDireta';
 import TextoSincronizado from './ComunicacaoIndireta';
 import ListaFlex from './ListaAluno';
+import Flex from './Flex';
 
 export default createDrawerNavigator(
   {
+    Flex: {
+      screen: Flex,
+    },
     ListaFlex: {
       screen: ListaFlex,
     },
