@@ -19,4 +19,4 @@ Aula 29. Validar Propriedades
 Aula 30. Eventos & Componentes Controlados
 Aula 31. Comunicação Direta via Props
 Aula 32. Comunicação Indireta via Callback
-
+Aluno 35. Lista de Alunos #01

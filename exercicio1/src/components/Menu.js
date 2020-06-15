@@ -9,9 +9,13 @@ import PlatForm from './PlatForm';
 import ValidarProps from './ValidarProps';
 import Vo from './ComunicacaoDireta';
 import TextoSincronizado from './ComunicacaoIndireta';
+import ListaFlex from './ListaAluno';
 
 export default createDrawerNavigator(
   {
+    ListaFlex: {
+      screen: ListaFlex,
+    },
     TextoSincronizado: {
       screen: TextoSincronizado,
     },
